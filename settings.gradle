@@ -1,0 +1,2 @@
+rootProject.name='VentiApp'
+include ':app'
